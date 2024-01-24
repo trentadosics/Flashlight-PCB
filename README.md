@@ -1,7 +1,7 @@
 *to be updated*
 
 # Flashlight-PCB
-*Welding workshop at FAB-Casa del Mig (Barcelona) - September 2023*
+Welding workshop at FAB-Casa del Mig (Barcelona) - September 2023
 
 In collaboration with: FAB - Casa del Mig (Barcelona; Oriol Blas and Ricard Gómez)
 
