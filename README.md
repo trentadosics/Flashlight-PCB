@@ -10,4 +10,6 @@ That was an educational project designed to teach soldering techniques for assem
 
 This design was modified several times, because of that you could see diferent versions in the photos' folder. However, the last one has a curved line on the upper side, instead of a straight line.
 
+This design is also available on the PCBWay platform, ready to order and purchase if you needed.
+
 
