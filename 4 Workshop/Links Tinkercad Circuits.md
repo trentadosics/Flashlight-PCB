@@ -9,21 +9,6 @@ Circuits made during the workshop
 [Circuit07](https://www.tinkercad.com/things/9GohJ2lNTTq-circuit-7?sharecode=rL2QLvp70Y8aAuXzoeobGed1MTJgrYh88QsKd9A3NHQ),
 [Circuit08](https://www.tinkercad.com/things/e7uUpDU4XTC-circuit-8?sharecode=GwXP8lxYJ65vV8hnLV5y2PXqni781RvH4_HjV4I-Yck)
 
-| Circuit | Link |
-|---:|-------------------------------------------------------------------------------------------------------------|
-| 01 | https://www.tinkercad.com/things/hkREu1wtgZO-circuit-1?sharecode=BYw1-nFWBrCQGk7q2-ulKwA5C_sh5ExD2xSxZYLymnI|
-| 02 | https://www.tinkercad.com/things/iJjkeGyxKHh-circuit-2?sharecode=VH54_SB5R2dCYthJnViYKxf9gEtQGfP6SXaReGMb93c|
-
-| 04 | |
-| 05 | |
-| 06 | |
-| 07 | |
-| 08 | |
-
-Circuit 06: 
-Circuit 07: 
-Circuit 08: 
-
 # Extra circuits
 Let's play a little bit more
 Circuit 09, Circuit 10, Circuit 11, Circuit 12, Circuit 13, Circuit14, Circuit15
