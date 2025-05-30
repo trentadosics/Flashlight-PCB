@@ -9,6 +9,12 @@ Circuits made during the workshop
 [Circuit07](https://www.tinkercad.com/things/9GohJ2lNTTq-circuit-7?sharecode=rL2QLvp70Y8aAuXzoeobGed1MTJgrYh88QsKd9A3NHQ),
 [Circuit08](https://www.tinkercad.com/things/e7uUpDU4XTC-circuit-8?sharecode=GwXP8lxYJ65vV8hnLV5y2PXqni781RvH4_HjV4I-Yck)
 
-# Extra circuits
-Let's play a little bit more
-Circuit 09, Circuit 10, Circuit 11, Circuit 12, Circuit 13, Circuit14, Circuit15
+## Extra circuits
+Let's play a little bit more  
+[Circuit 09](https://www.tinkercad.com/things/bQaqJwo10Kl-circuit-9?sharecode=JKoY4neBTrl-zA8CsatjVdrExo00NNAJA7KSaVYo1fU), 
+[Circuit 10](https://www.tinkercad.com/things/c4JHuE4JKAS-circuit-10?sharecode=vw25ho57GpgkzmpoGhHQO9yPvxMjelgf_0TqV60ZHP8), 
+[Circuit 11](https://www.tinkercad.com/things/dEsxzRqBDV7-circuit-11?sharecode=c8IDMbpYN-xyPcC9d5W3Yb2xoQsrVp93SJru7AH3aYU), 
+[Circuit 12](https://www.tinkercad.com/things/5O4uiQ13qz4-circuit-12?sharecode=vi_YmTvpocDUwOSSYVm2fDULaukLqYyg8qHY75DlFdE), 
+[Circuit 13](https://www.tinkercad.com/things/7MkIHDKpZ83-circuit-13?sharecode=4YfV8ozoiZ3O-vjMtfSKe5J6kw84d-vSOpYZ36XY9vg), 
+[Circuit 14](https://www.tinkercad.com/things/49AO0FVx0nx-circuit-14?sharecode=rxDMG_dGVomwqGUAokxcIPxV5ZzwcBVO5s1dUbdpGbA), 
+[Circuit 15](https://www.tinkercad.com/things/hLRDS3663vb-circuit-15?sharecode=6owkmCeGZkkmPSYCp-MW2aQP2KAuABh1Sj67bD2GlE0)
