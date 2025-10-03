@@ -68,3 +68,5 @@
 - Perquè un LED emet llum? [Vídeo1](https://www.youtube.com/watch?v=Jr6tcXnDHIo) entre els instants 4:05-4:14
 - Per què els LEDs són de diferents colors? [Vídeo1](https://www.youtube.com/watch?v=Jr6tcXnDHIo) entre els instants 4:14-4:45
 - A partir de quin voltatge s’il·lumina cada color? [Vídeo2](https://www.youtube.com/watch?v=hlZOExfOXIA)
+  
+### Softwares per a dissenyar una placa PCB
