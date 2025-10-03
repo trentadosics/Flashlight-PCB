@@ -92,7 +92,20 @@
 ### Com es fabrica una placa PCB
 - Explicació ([Blog Luis Llamas](https://www.luisllamas.es/como-se-fabrica-una-pcb/))
 - Procés de fabricació fet per Lab Circuits ([Video7](https://www.lab-circuits.com/ca/fabricacio), instant 7:55)
-  
 <br/>
 
+## Altres
+### Softcircuits
+- Wearables: Curs de tecnologia vestible online (https://citcea.webs.upc.edu/mooc/) (font imatge 8.1)
+
+  
+<a href="https://www.fashionlacrum.com/articles/beginner-e-textilessoft-circuits" target="_blank">
+  <img src="[https://www.electrontools.com/Home/WP/wp-content/uploads/2016/04/Resistencia.png](https://images.squarespace-cdn.com/content/v1/65fe7ab1a9c9e461bdc7ae6f/75944846-4848-4a1a-9f75-5128f3201bca/Circuits.jpg?format=2500w)" 
+       alt="Resistències" 
+       title="Clica per veure més informació a Electrónica online"
+       align="left" 
+       hspace="35" 
+       width="250"/>
+</a>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
   
