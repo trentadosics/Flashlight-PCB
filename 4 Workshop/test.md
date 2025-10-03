@@ -5,6 +5,10 @@
 
 ![](https://pcbcentral.com/wp-content/uploads/2022/06/Resistencias.jpg)
 
+<p align="center">
+  <img src="[imatge.png](https://pcbcentral.com/wp-content/uploads/2022/06/Resistencias.jpg)" alt="Text alternatiu" width="300"/>
+</p>
+
 ### Terminologies alternatives
 - Voltatge, també podem dir: tensió (elèctrica), diferència de potencial...
 - Intensitat, també podem dir: consum (elèctric)
