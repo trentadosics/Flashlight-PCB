@@ -49,7 +49,7 @@
        hspace="35" 
        width="500"/>
 </a>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ### Valor comercial/estàndard de les resistències
 - Valors estàndards i com es llegeixen (datasheet Farnell): [font 4.1](https://www.farnell.com/datasheets/1807347.pdf)
