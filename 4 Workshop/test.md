@@ -3,7 +3,7 @@
 - [Sobre les resistències](#sobre-les-resistències)  
 - [Sobre els LED's](#sobre-els-leds)
 - [Sobre les plaques PCB](#sobre-les-plaques-pcb)
-- 
+- [Altres](#altres)
 
 ## Nomenclatures i terminologies
 ### Nomenclatures  
