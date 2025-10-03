@@ -1,7 +1,7 @@
 # Índex
--[Informació general](#informacio-general)  
--[Sobre les resistències](#sobre-les-resistencies)  
--[Sobre els LED's](#sobre-els-leds)  
+- [Informació general](#informacio-general)  
+- [Sobre les resistències](#sobre-les-resistencies)  
+- [Sobre els LED's](#sobre-els-leds)  
 
 ## Informació general
 ### Nomenclatures  
