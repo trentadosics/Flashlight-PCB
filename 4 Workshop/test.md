@@ -30,7 +30,7 @@
 [font imatge 3.1](https://mielectronicafacil.com/componentes/codigo-de-colores-resistencias/#por-que-se-necesita-el-codigo-de-colores-para-las-resistencias)
 
 <a href="https://mielectronicafacil.com/componentes/codigo-de-colores-resistencias/#por-que-se-necesita-el-codigo-de-colores-para-las-resistencias" target="_blank">
-  <img src="https://pcbcentral.com/wp-content/uploads/2022/06/Resistencias.jpg" 
+  <img src="https://mielectronicafacil.com/wp-content/uploads/2020/06/Tama%C3%B1o-de-resistencias.png" 
        alt="Resistències" 
        title="Clica per veure més informació a Micro electronica fácil"
        align="left" 
