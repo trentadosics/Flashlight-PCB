@@ -62,7 +62,7 @@
        hspace="35" 
        width="500"/>
 </a>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ### Com funcionen els LED’s a nivell atòmic
 - Perquè un LED emet llum? [Vídeo1](https://www.youtube.com/watch?v=Jr6tcXnDHIo) entre els instants 4:05-4:14
