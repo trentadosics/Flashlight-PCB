@@ -82,6 +82,10 @@
 - Pel disseny gràfic (= Illustrator, open source)
 - Pel disseny electrònic i de la placa PCB: KiCad EDA (open source), Easy EDA (online i lliure)
 
+### Com es fabrica una placa PCB
+- Explicació ([Blog Luis Llamas](https://www.luisllamas.es/como-se-fabrica-una-pcb/))
+- Procés de fabricació fet per Lab Circuits ([Video7](https://www.lab-circuits.com/ca/fabricacio), instant 7:55)
+  
 <br/>
 
   
