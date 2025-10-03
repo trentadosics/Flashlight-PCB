@@ -15,5 +15,13 @@
 - Vídeo Youtube: «Resistencias explicadas» [(Mentalidad de Ingeniería](https://www.youtube.com/watch?v=blUimcoNpKs))
 
 ### Tipus de resistències
-- Explicació blog: font 2.1
-- De carboni, de ceràmica...: font 2.2
+- Explicació blog: [font 2.1](https://masterplc.com/electronica/tipos-de-resistencias-electricas/)
+- De carboni, de ceràmica...: [font 2.2](https://diotronic.com/957-resistencias)
+
+### Codi de colors per a calcular el valor de les resistències
+- Explicació i exemples: [font 3.1](https://electronicaonline.net/componentes-electronicos/resistor/codigo-de-colores-de-resistencias-electricas/), [font imatge 3.1](https://mielectronicafacil.com/componentes/codigo-de-colores-resistencias/#por-que-se-necesita-el-codigo-de-colores-para-las-resistencias)
+- App: Resistor ([recurs](https://play.google.com/store/apps/details?id=com.tomhogenkamp.resistorcalculator))
+
+### Valor comercial/estàndard de les resistències
+- Valors estàndards i com es llegeixen (datasheet Farnell): [font 4.1](https://www.farnell.com/datasheets/1807347.pdf)
+- [Font taula](https://www.electrontools.com/Home/WP/valores-comerciales-de-resistencias/)
