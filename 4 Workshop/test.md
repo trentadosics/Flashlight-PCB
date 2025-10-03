@@ -1,6 +1,6 @@
 # Índex
 - [Informació general](#informacio-general)  
-- [Sobre les resistències](#sobre-les-resistencies)  
+- [Sobre les resistències](#sobre-les-resistències)  
 - [Sobre els LED's](#sobre-els-leds)
 - [Sobre les plaques PCB](#sobre-les-plaques-pcb)
 - 
