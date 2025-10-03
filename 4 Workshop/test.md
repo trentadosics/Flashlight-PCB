@@ -73,5 +73,10 @@
 - Perquè un LED emet llum? [Vídeo1](https://www.youtube.com/watch?v=Jr6tcXnDHIo) entre els instants 4:05-4:14
 - Per què els LEDs són de diferents colors? [Vídeo1](https://www.youtube.com/watch?v=Jr6tcXnDHIo) entre els instants 4:14-4:45
 - A partir de quin voltatge s’il·lumina cada color? [Vídeo2](https://www.youtube.com/watch?v=hlZOExfOXIA)
+<br/>
   
 ### Softwares per a dissenyar una placa PCB
+- La pràctica d’aplicar un disseny estètic a les plaques PCB és coneix com PCB Art ([recopilació d’exemples](https://es.pinterest.com/raykampmeier/pcb-art/))
+
+  
+### Com funcionen els LED’s a nivell atòmic
