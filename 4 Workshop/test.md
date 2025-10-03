@@ -1,3 +1,6 @@
+# Índex
+-[Informació general](#informacio-general)
+
 ## Informació general
 ### Nomenclatures  
 - Les inicials PCB volen dir Printed Circuit Board (Placa de circut imprès)
