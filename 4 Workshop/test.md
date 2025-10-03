@@ -7,7 +7,8 @@
 
 <a href="https://pcbcentral.com/eagle-resistencias-de-montaje-superficial-smd-2" target="_blank">
   <img src="https://pcbcentral.com/wp-content/uploads/2022/06/Resistencias.jpg" 
-       alt="Text alternatiu" 
+       alt="Resistències" 
+       title="Clica per veure més informació a PCB Central"
        align="left" 
        hspace="35" 
        width="400"/>
