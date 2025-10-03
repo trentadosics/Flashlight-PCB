@@ -68,7 +68,7 @@
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <br/>
 
-## Sobre les resistències
+## Sobre els LED's
 ### Com funcionen els LED’s a nivell atòmic
 - Perquè un LED emet llum? [Vídeo1](https://www.youtube.com/watch?v=Jr6tcXnDHIo) entre els instants 4:05-4:14
 - Per què els LEDs són de diferents colors? [Vídeo1](https://www.youtube.com/watch?v=Jr6tcXnDHIo) entre els instants 4:14-4:45
