@@ -18,7 +18,7 @@
 - Explicació blog: [font 2.1](https://masterplc.com/electronica/tipos-de-resistencias-electricas/)
 - De carboni, de ceràmica...: [font 2.2](https://diotronic.com/957-resistencias)
 
-<img src="https://mielectronicafacil.com/wp-content/uploads/2020/06/Tama%C3%B1o-de-resistencias.png" alt="Text alternatiu" align="left" hspace="35" width="250"/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<img src="https://mielectronicafacil.com/wp-content/uploads/2020/06/Tama%C3%B1o-de-resistencias.png" alt="Text alternatiu" align="left" hspace="35" width="250"/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ### Codi de colors per a calcular el valor de les resistències
 - Explicació i exemples: [font 3.1](https://electronicaonline.net/componentes-electronicos/resistor/codigo-de-colores-de-resistencias-electricas/), [font imatge 3.1](https://mielectronicafacil.com/componentes/codigo-de-colores-resistencias/#por-que-se-necesita-el-codigo-de-colores-para-las-resistencias)
