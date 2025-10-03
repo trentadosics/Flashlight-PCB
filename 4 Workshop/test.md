@@ -107,7 +107,7 @@
        hspace="35" 
        width="500"/>
 </a>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 - Tinta conductora (pintura, boli, pasta, etc.)
 - Plastilina conductora
