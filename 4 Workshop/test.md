@@ -40,6 +40,16 @@
 - Explicació i exemples: [font 3.1](https://electronicaonline.net/componentes-electronicos/resistor/codigo-de-colores-de-resistencias-electricas/), [imatge anterior](https://mielectronicafacil.com/componentes/codigo-de-colores-resistencias/#por-que-se-necesita-el-codigo-de-colores-para-las-resistencias)
 - App: Resistor ([recurs](https://play.google.com/store/apps/details?id=com.tomhogenkamp.resistorcalculator))
 
+<a href="https://electronicaonline.net/componentes-electronicos/resistor/codigo-de-colores-de-resistencias-electricas/" target="_blank">
+  <img src="https://electronicaonline.net/wp-content/uploads/2021/05/Codigo-de-colores-de-resistencias-de-cuatro-bandas.jpg" 
+       alt="Resistències" 
+       title="Clica per veure més informació a Electrónica online"
+       align="left" 
+       hspace="35" 
+       width="250"/>
+</a>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 ### Valor comercial/estàndard de les resistències
 - Valors estàndards i com es llegeixen (datasheet Farnell): [font 4.1](https://www.farnell.com/datasheets/1807347.pdf)
 - [Font taula](https://www.electrontools.com/Home/WP/valores-comerciales-de-resistencias/)
