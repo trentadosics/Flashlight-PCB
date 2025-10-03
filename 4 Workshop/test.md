@@ -107,10 +107,20 @@
        hspace="35" 
        width="500"/>
 </a>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 - Tinta conductora (pintura, boli, pasta, etc.)
 - Plastilina conductora
 - Addhesiu conductor
 - ...
+
+### Pasta de soldar
+- Un dels components de la pasta de soldar és la colofonia (una resina natural)
+- Pasta de soldar vs Flux: [https://www.tiktok.com/@ellygmr/video/7451652570390465797](https://www.tiktok.com/@ellygmr/video/7451652570390465797)
+- <br/>
+
+## Preguntes de l'última sessió
+### Preus tester/multímetre
+- Depèn de la qualitat: 5-20-120 € o més
+- Per exemple: [https://amzn.eu/d/c2juQOZ](https://amzn.eu/d/c2juQOZ)
   
