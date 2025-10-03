@@ -4,6 +4,7 @@
 - [Sobre els LED's](#sobre-els-leds)
 - [Sobre les plaques PCB](#sobre-les-plaques-pcb)
 - [Altres](#altres)
+- [Preguntes de l'última sessió](#preguntes-de-lúltima-sessió)
 
 ## Nomenclatures i terminologies
 ### Nomenclatures  
