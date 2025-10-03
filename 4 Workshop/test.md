@@ -46,7 +46,7 @@
        title="Clica per veure més informació a Electrónica online"
        align="left" 
        hspace="35" 
-       width="250"/>
+       width="500"/>
 </a>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
