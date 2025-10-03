@@ -10,6 +10,10 @@
 - Intensitat, també podem dir: consum (elèctric)
 
 ### Curiositats sobre les resistències
-- El concepte de resistència va ser descobert per Georg Ohm a l’any 1827 (font 1.1)
+- El concepte de resistència va ser descobert per Georg Ohm a l’any 1827 ([font 1.1](https://es.wikipedia.org/wiki/Resistencia_eléctrica))
 - A la dècada del 1920 l’associació Radio Manufacturer’s d’EUA va definir i establir el codi de colors (font 1.2)
 - Vídeo Youtube: «Resistencias explicadas» (Mentalidad de Ingeniería)
+
+### Tipus de resistències
+- Explicació blog: font 2.1
+- De carboni, de ceràmica...: font 2.2
