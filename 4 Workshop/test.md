@@ -1,11 +1,11 @@
 # Índex
-- [Informació general](#informacio-general)  
+- [Nomenclatures i conceptes](#nomenclatures-i-conceptes)  
 - [Sobre les resistències](#sobre-les-resistències)  
 - [Sobre els LED's](#sobre-els-leds)
 - [Sobre les plaques PCB](#sobre-les-plaques-pcb)
 - 
 
-## Informació general
+## Nomenclatures i conceptes
 ### Nomenclatures  
 - Les inicials PCB volen dir Printed Circuit Board (Placa de circut imprès)
 - Les inicials SMD volen dir Surface Mounting Device (també SMT = Surface Mounting Technology)
