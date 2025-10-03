@@ -122,6 +122,10 @@
 
 ## Preguntes de l'última sessió
 ### Preus tester/multímetre
-- Depèn de la qualitat: 5-20-120 € o més
+- 10-20-120 € o més (depèn de la qualitat)
 - Per exemple: [https://amzn.eu/d/c2juQOZ](https://amzn.eu/d/c2juQOZ)
+
+### Espais on poder anar a practicar (espais maker)
+- [La Casa del Mig](https://www.fabcasadelmig.cat/espaimaker/) (Parc de l'Espanya Industrial, Barcelona)
+- [Maker Convent](https://conventagusti.com/maker/que-puc-fer-al-makerconvent/) (El Born, Barcelona)
   
