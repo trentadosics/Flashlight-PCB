@@ -17,6 +17,7 @@
 - Voltatge, també podem dir: tensió (elèctrica), diferència de potencial...
 - Intensitat, també podem dir: consum (elèctric)
 
+## Sobre les resistències
 ### Curiositats sobre les resistències
 - El concepte de resistència va ser descobert per Georg Ohm a l’any 1827 ([font 1.1](https://es.wikipedia.org/wiki/Resistencia_eléctrica))
 - A la dècada del 1920 l’associació Radio Manufacturer’s d’EUA va definir i establir el codi de colors ([font 1.2](https://ca.wikipedia.org/wiki/Codi_de_colors))
