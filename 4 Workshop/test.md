@@ -121,9 +121,10 @@
 - <br/>
 
 ## Revisar preguntes
-### Preus tester/multímetre
-- 10-20-120 € o més (depèn de la qualitat)
-- Per exemple: [https://amzn.eu/d/c2juQOZ](https://amzn.eu/d/c2juQOZ)
+### Tester/multímetre
+- Preu: 10-20-120 € o més (depèn de la qualitat)
+- Exemple: [https://amzn.eu/d/c2juQOZ](https://amzn.eu/d/c2juQOZ)
+- Tot tipus d'usos: domèstics, circuits electrònics... (sempre anant en compte, sobretot si mesurem intensitats!)
 
 ### Espais on poder anar a practicar (espais maker)
 - [La Casa del Mig](https://www.fabcasadelmig.cat/espaimaker/) (Parc de l'Espanya Industrial, Barcelona)
