@@ -105,7 +105,7 @@
        title="Clica per veure més informació a Fashion Lacrum"
        align="left" 
        hspace="35" 
-       width="250"/>
+       width="500"/>
 </a>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
   
