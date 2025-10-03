@@ -5,7 +5,7 @@
 
 <img src="https://pcbcentral.com/wp-content/uploads/2022/06/Resistencias.jpg" alt="Text alternatiu" " width="300"/> <br/>
 
-<div style="text-align:left; margin-left:100px;">
+<div style="text-align:left; margin-left:10000px;">
   <img src="https://pcbcentral.com/wp-content/uploads/2022/06/Resistencias.jpg" alt="Text alternatiu" " width="300"/>  
 </div>
 
