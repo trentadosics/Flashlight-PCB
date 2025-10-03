@@ -11,8 +11,8 @@
 
 ### Curiositats sobre les resistències
 - El concepte de resistència va ser descobert per Georg Ohm a l’any 1827 ([font 1.1](https://es.wikipedia.org/wiki/Resistencia_eléctrica))
-- A la dècada del 1920 l’associació Radio Manufacturer’s d’EUA va definir i establir el codi de colors (font 1.2)
-- Vídeo Youtube: «Resistencias explicadas» (Mentalidad de Ingeniería)
+- A la dècada del 1920 l’associació Radio Manufacturer’s d’EUA va definir i establir el codi de colors ([font 1.2](https://ca.wikipedia.org/wiki/Codi_de_colors))
+- Vídeo Youtube: «Resistencias explicadas» [(Mentalidad de Ingeniería](https://www.youtube.com/watch?v=blUimcoNpKs))
 
 ### Tipus de resistències
 - Explicació blog: font 2.1
