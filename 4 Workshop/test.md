@@ -1,14 +1,12 @@
 ### Nomenclatures  
 - Les inicials PCB volen dir Printed Circuit Board (Placa de circut imprès)
 - Les inicials SMD volen dir Surface Mounting Device (també SMT = Surface Mounting Technology)
-- Les inicials PTH volen dir Pass Through Hole ([font imatge 0.1](https://pcbcentral.com/eagle-resistencias-de-montaje-superficial-smd-2))
-
-<img src="https://pcbcentral.com/wp-content/uploads/2022/06/Resistencias.jpg" alt="Text alternatiu" align="left" hspace="35" width="400"/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+- Les inicials PTH volen dir Pass Through Hole
 
 <a href="https://pcbcentral.com/eagle-resistencias-de-montaje-superficial-smd-2" target="_blank">
   <img src="https://pcbcentral.com/wp-content/uploads/2022/06/Resistencias.jpg" 
        alt="Resistències" 
-       title="Clica per veure més informació a PCB Central"
+       title="Clica per veure més informació a PCB Central (font de la imatge)"
        align="left" 
        hspace="35" 
        width="400"/>
