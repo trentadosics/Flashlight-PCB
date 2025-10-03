@@ -37,7 +37,7 @@
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ### Codi de colors per a calcular el valor de les resistències
-- Explicació i exemples: [imatge anterior](https://electronicaonline.net/componentes-electronicos/resistor/codigo-de-colores-de-resistencias-electricas/), [font imatge 3.1](https://mielectronicafacil.com/componentes/codigo-de-colores-resistencias/#por-que-se-necesita-el-codigo-de-colores-para-las-resistencias)
+- Explicació i exemples: [font 3.1](https://electronicaonline.net/componentes-electronicos/resistor/codigo-de-colores-de-resistencias-electricas/), [imatge anterior](https://mielectronicafacil.com/componentes/codigo-de-colores-resistencias/#por-que-se-necesita-el-codigo-de-colores-para-las-resistencias)
 - App: Resistor ([recurs](https://play.google.com/store/apps/details?id=com.tomhogenkamp.resistorcalculator))
 
 ### Valor comercial/estàndard de les resistències
