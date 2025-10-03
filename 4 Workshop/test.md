@@ -1,7 +1,9 @@
 # Índex
 - [Informació general](#informacio-general)  
 - [Sobre les resistències](#sobre-les-resistencies)  
-- [Sobre els LED's](#sobre-els-leds)  
+- [Sobre els LED's](#sobre-els-leds)
+- [Sobre les plaques PCB](#sobre-les-plaques-pcb)
+- 
 
 ## Informació general
 ### Nomenclatures  
