@@ -1,3 +1,4 @@
+## Informació general
 ### Nomenclatures  
 - Les inicials PCB volen dir Printed Circuit Board (Placa de circut imprès)
 - Les inicials SMD volen dir Surface Mounting Device (també SMT = Surface Mounting Technology)
@@ -16,6 +17,7 @@
 ### Terminologies alternatives
 - Voltatge, també podem dir: tensió (elèctrica), diferència de potencial...
 - Intensitat, també podem dir: consum (elèctric)
+<br/>
 
 ## Sobre les resistències
 ### Curiositats sobre les resistències
