@@ -3,7 +3,6 @@
 - Les inicials SMD volen dir Surface Mounting Device (també SMT = Surface Mounting Technology)
 - Les inicials PTH volen dir Pass Through Hole ([font imatge 0.1](https://pcbcentral.com/wp-content/uploads/2022/06/Resistencias.jpg))
 
-<img src="https://pcbcentral.com/wp-content/uploads/2022/06/Resistencias.jpg" " width="300"/>
 ![](https://pcbcentral.com/wp-content/uploads/2022/06/Resistencias.jpg)
 
 ### Terminologies alternatives
