@@ -4,7 +4,7 @@
 - [Sobre els LED's](#sobre-els-leds)
 - [Sobre les plaques PCB](#sobre-les-plaques-pcb)
 - [Altres](#altres)
-- [Revisar preguntes](#revisar-preguntes)
+- [Punts a revisar](#punts-a-revisar)
 
 ## Nomenclatures i terminologies
 ### Nomenclatures  
@@ -120,7 +120,7 @@
 - Pasta de soldar vs Flux: [https://www.tiktok.com/@ellygmr/video/7451652570390465797](https://www.tiktok.com/@ellygmr/video/7451652570390465797)
 - <br/>
 
-## Revisar preguntes
+## Punts a revisar
 ### Tester/multímetre
 - Preu: 10-20-120 € o més (depèn de la qualitat)
 - Exemple: [https://amzn.eu/d/c2juQOZ](https://amzn.eu/d/c2juQOZ)
