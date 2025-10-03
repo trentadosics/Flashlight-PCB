@@ -54,3 +54,13 @@
 ### Valor comercial/estàndard de les resistències
 - Valors estàndards i com es llegeixen (datasheet Farnell): [font 4.1](https://www.farnell.com/datasheets/1807347.pdf)
 - [Font taula](https://www.electrontools.com/Home/WP/valores-comerciales-de-resistencias/)
+
+<a href="https://www.electrontools.com/Home/WP/valores-comerciales-de-resistencias/" target="_blank">
+  <img src="https://www.electrontools.com/Home/WP/wp-content/uploads/2016/04/Resistencia.png" 
+       alt="Resistències" 
+       title="Clica per veure més informació a Electrónica online"
+       align="left" 
+       hspace="35" 
+       width="500"/>
+</a>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
