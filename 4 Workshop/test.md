@@ -78,5 +78,10 @@
 ## Sobre les plaques PCB
 - La pràctica d’aplicar un disseny estètic a les plaques PCB és coneix com PCB Art ([recopilació d’exemples](https://es.pinterest.com/raykampmeier/pcb-art/))
 ### Softwares per a dissenyar una placa PCB
+- Pel disseny de la forma: Fusion 360 (versió lliure d’ús personal)
+- Pel disseny gràfic (= Illustrator, open source)
+- Pel disseny electrònic i de la placa PCB: KiCad EDA (open source), Easy EDA (online i lliure)
+
+<br/>
 
   
