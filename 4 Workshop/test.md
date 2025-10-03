@@ -67,7 +67,7 @@
 <a href="https://www.electrontools.com/Home/WP/valores-comerciales-de-resistencias/" target="_blank">
   <img src="https://www.electrontools.com/Home/WP/wp-content/uploads/2016/04/Resistencia.png" 
        alt="Resistències" 
-       title="Clica per veure més informació a Electrónica online"
+       title="Clica per veure més informació a Electron tools"
        align="left" 
        hspace="35" 
        width="500"/>
@@ -100,9 +100,9 @@
 
   
 <a href="https://www.fashionlacrum.com/articles/beginner-e-textilessoft-circuits" target="_blank">
-  <img src="[https://www.electrontools.com/Home/WP/wp-content/uploads/2016/04/Resistencia.png](https://images.squarespace-cdn.com/content/v1/65fe7ab1a9c9e461bdc7ae6f/75944846-4848-4a1a-9f75-5128f3201bca/Circuits.jpg?format=2500w)" 
+  <img src="https://images.squarespace-cdn.com/content/v1/65fe7ab1a9c9e461bdc7ae6f/75944846-4848-4a1a-9f75-5128f3201bca/Circuits.jpg?format=2500w" 
        alt="Resistències" 
-       title="Clica per veure més informació a Electrónica online"
+       title="Clica per veure més informació a Fashion Lacrum"
        align="left" 
        hspace="35" 
        width="250"/>
