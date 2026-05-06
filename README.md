@@ -13,4 +13,5 @@ This design was modified several times, because of that you could see diferent v
 This design is also available on the PCBWay platform, ready to order and purchase if you needed:
 https://www.pcbway.com/project/shareproject/Flashlight_PCB_customizable_2cbe94a4.html
 
+<img width="604" height="944" alt="PCBllanterna" src="https://github.com/user-attachments/assets/e84de5af-d158-4815-95a9-01dad8212128" />
 
