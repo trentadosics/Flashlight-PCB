@@ -1,3 +1,10 @@
+*to be updated*
+
+# Flashlight-PCB  
+Soldering workshop at FAB-Casa del Mig (Barcelona) - September 2023  
+
+In collaboration with: FAB - Casa del Mig (Barcelona; Oriol Blas and Ricard Gómez)
+
 <table>
   <tr>
     <td width="220">
@@ -6,13 +13,13 @@
     <td>
       <h2>Description</h2>
       <p>
-        That was an educational project designed to teach soldering techniques for assembling small electronic components like LEDs, switches and battery holders onto a stylish, practical and customizable flashlight PCB.
+        This was an educational project designed to teach soldering techniques for assembling small electronic components like LEDs, switches and battery holders onto a stylish, practical and customizable flashlight PCB.
       </p>
       <p>
-        This design was modified several times, because of that you could see different versions in the photos' folder. However, the last one has a curved line on the upper side, instead of a straight line.
+        This design was modified several times, so you can see different versions in the photos folder. However, the latest version features a curved line on the upper side instead of a straight one.
       </p>
       <p>
-        This design is also available on the PCBWay platform, ready to order and purchase if you needed:
+        This design is also available on PCBWay, ready to order:
         <a href="https://www.pcbway.com/project/shareproject/Flashlight_PCB_customizable_2cbe94a4.html">
           View on PCBWay
         </a>
