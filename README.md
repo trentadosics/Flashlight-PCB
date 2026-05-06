@@ -13,7 +13,6 @@
       </p>
       <p>
         This design is also available on the PCBWay platform, ready to order and purchase if you needed:
-        <br>
         <a href="https://www.pcbway.com/project/shareproject/Flashlight_PCB_customizable_2cbe94a4.html">
           View on PCBWay
         </a>
