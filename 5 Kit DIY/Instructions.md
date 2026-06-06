@@ -44,6 +44,6 @@ Before starting, place the component on the PCB, except for the battery holder
 ["How to solder! (beginner's guide)"](https://www.youtube.com/watch?v=3jAw41LRBxU&list=PLFAKEVrt2z7I&index=1&t=5s)  
 
 ### Final step  
-- Insert the CR2032 battery into the battery holder (becareful: the battery holder's positive terminal should touch the positive side of the battery!)     
+- Insert the CR2032 battery into the battery holder (important: the positive terminal of the battery holder must be aligned with the positive side (+) of the battery)  
 - Press the push button to test the flashlight  
 
