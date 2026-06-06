@@ -1,15 +1,16 @@
 [EN]  
 
 ## Components:  
-- 3 transparent LEDS  
-- 1 push button  
+- 3 Transparent LEDS  
+- 1 Push button  
 - 1 3VCR2032 battery holder  
 - 1 3VCR2032 battery  
 
 ## Tools:
 - 1 Solder  
 - Tin 0.5mm diameter
-- Metallic sponge to clean the tip of the solder
+- 1 Metallic sponge to clean the tip of the solder
+- 1 Pliers
   
 ## How to solder:  
 3 steps of 3 seconds each  
