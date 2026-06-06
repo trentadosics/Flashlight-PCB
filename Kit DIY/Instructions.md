@@ -11,6 +11,7 @@
 - Tin 0.5mm diameter
 - 1 Metallic sponge to clean the tip of the solder
 - 1 Pliers
+- Ventilated area or a fume extractor (recommended)
   
 ## How to solder:  
 3 steps of 3 seconds each  
