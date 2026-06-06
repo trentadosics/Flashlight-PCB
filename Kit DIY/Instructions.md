@@ -26,15 +26,15 @@ Some tutorials about soldering:
 ["How to solder! (beginner's guide)"](https://www.youtube.com/watch?v=3jAw41LRBxU&list=PLFAKEVrt2z7I&index=1&t=5s)
 
 ## Step by step:  
-SOLDER BATTERY HOLDER  
+SOLDERING BATTERY HOLDER  
 - Solder one pad of the battery holder  
 - Melt the solded tin and place the battery holder  
 - Melt tin over the other battery holder's terminal
   
-SOLDER PUSH BUTTON  
+SOLDERING PUSH BUTTON  
 - Place the push button  
 - Melt some tin over each terminal
   
-SOLDER LEDS  
+SOLDERING LEDS  
 - Place each LED (remember: the long leg is the positive terminal!!)  
 - Molt some tin over each terminal  
