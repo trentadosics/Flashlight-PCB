@@ -22,10 +22,12 @@ Step by step:
 SOLDER BATTERY HOLDER  
 - Solder one pad of the battery holder  
 - Melt the solded tin and place the battery holder  
-- Melt tin over the other battery holder's terminal  
+- Melt tin over the other battery holder's terminal
+  
 SOLDER PUSH BUTTON  
 - Place the push button  
-- Melt some tin over each terminal  
+- Melt some tin over each terminal
+  
 SOLDER LEDS  
 - Place each LED (remember: the long leg is the positive terminal!!)  
 - Molt some tin over each terminal  
