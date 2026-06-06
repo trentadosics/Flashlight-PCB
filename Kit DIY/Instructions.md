@@ -18,7 +18,12 @@
 Previously, place all the components on the PCB, except for the battery holder  
 1. Heat the zone to be solded  
 2. Bring closer the tin to the heated area to melt it between the OCB and the component. It will work as a glue between them.  
-3. Take out the tin and leave the the solder 3 more seconds  
+3. Take out the tin and leave the the solder 3 more seconds
+
+Some tutorials about to solder:
+["Tutorial básico de soldadura SMD | NIVEL 1 | LCSC" (Mundo electrónica)](https://www.youtube.com/watch?v=yil-EmlQMkg&t=2s)
+<br/>
+["How to solder! (beginner's guide)"](https://www.youtube.com/watch?v=3jAw41LRBxU&list=PLFAKEVrt2z7I&index=1&t=5s)
 
 ## Step by step:  
 SOLDER BATTERY HOLDER  
