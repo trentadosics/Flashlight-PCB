@@ -15,7 +15,7 @@
 3 steps of 3 seconds each  
 Previously, place all the components on the PCB, except for the battery holder  
 1. Heat the zone to be solded  
-2. Bring closer the tin to the heated area to melt it between the OCB and the component. It will work as a glue between them.  
+2. Bring the tin closer to the PCB heated area to melt it between the PCB and the component. It will work as a glue between them.  
 3. Take out the tin and leave the the solder 3 more seconds
 
 Some tutorials about soldering:  
