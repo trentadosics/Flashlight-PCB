@@ -2,7 +2,8 @@
 - [Components](#components)  
 - [Tools](#tools)  
 - [How to solder](#how-to-solder)  
-- [Step by step](#step-by-step)  
+- [Step by step](#step-by-step)
+- [Final step](#final-step)
 
 ## Components  
 - 1 PCB Flashlight
