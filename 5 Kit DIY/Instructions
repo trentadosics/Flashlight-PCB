@@ -1,3 +1,10 @@
+## Índex
+- [Components](#components)  
+- [Tools](#tools)  
+- [How to solder](#how-to-solder)  
+- [Step by step](#step-by-step)  
+- 
+
 ## Components  
 - 1 PCB Flashlight
 - 3 LEDS  
@@ -20,23 +27,23 @@ Before starting, place the component on the PCB, except for the battery holder
 3. Remove the solder wire and keep the soldering iron in place for about three more seconds. Then remove the iron
 
 ## Step by step  
-SOLDERING BATTERY HOLDER  
+### SOLDERING BATTERY HOLDER  
 - Solder one pad of the battery holder  
 - Reheat the soldered pad and position the battery holder correctly   
 - Solder the second terminal of the battery holder  
 ["Tutorial básico de soldadura SMD | NIVEL 1 | LCSC" (Mundo electrónica)](https://www.youtube.com/watch?v=yil-EmlQMkg&t=2s)  
   
-SOLDERING PUSH BUTTON  
+### SOLDERING PUSH BUTTON  
 - Place the push button on the PCB  
 - Solder each terminal  
 ["How to solder! (beginner's guide)"](https://www.youtube.com/watch?v=3jAw41LRBxU&list=PLFAKEVrt2z7I&index=1&t=5s)  
   
-SOLDERING LEDS  
+### SOLDERING LEDS  
 - Place each LED on the PCB (remember: the long leg is the positive terminal!)  
 - Solder each terminal  
 ["How to solder! (beginner's guide)"](https://www.youtube.com/watch?v=3jAw41LRBxU&list=PLFAKEVrt2z7I&index=1&t=5s)  
 
-FINAL STEP
+### FINAL STEP
 - Insert the CR2032 battery into the battery holder  
 - Press the push button to test the flashlight  
 
