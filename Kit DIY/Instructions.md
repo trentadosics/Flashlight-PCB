@@ -1,5 +1,3 @@
-[EN]  
-
 ## Components:  
 - 3 Transparent LEDS  
 - 1 Push button  
