@@ -1,17 +1,17 @@
-## Components:  
+## Components  
 - 3 Transparent LEDS  
 - 1 Push button  
 - 1 3VCR2032 battery holder  
 - 1 3VCR2032 battery  
 
-## Tools:
+## Tools
 - 1 Solder  
 - Tin 0.5mm diameter
 - 1 Metallic sponge to clean the tip of the solder
 - 1 Pliers
 - Ventilated area or a fume extractor (recommended)
   
-## How to solder:  
+## How to solder  
 3 steps of 3 seconds each  
 Previously, place all the components on the PCB, except for the battery holder  
 1. Heat the zone to be solded  
@@ -23,7 +23,7 @@ Some tutorials about soldering:
 <br/>
 ["How to solder! (beginner's guide)"](https://www.youtube.com/watch?v=3jAw41LRBxU&list=PLFAKEVrt2z7I&index=1&t=5s)
 
-## Step by step:  
+## Step by step  
 SOLDERING BATTERY HOLDER  
 - Solder one pad of the battery holder  
 - Melt the solded tin and place the battery holder  
