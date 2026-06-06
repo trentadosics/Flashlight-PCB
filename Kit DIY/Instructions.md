@@ -4,7 +4,7 @@ Components:
 - 1 push button  
 - 1 3VCR2032 battery holder  
 - 1 3VCR2032 battery  
-\br
+/br
 Tools:
 - 1 Solder  
 - Tin 0.5mm diameter
