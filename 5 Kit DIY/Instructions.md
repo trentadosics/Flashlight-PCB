@@ -30,9 +30,9 @@ Before starting, place the component on the PCB, except for the battery holder
 - Solder one pad of the battery holder  
 - Reheat the soldered pad and position the battery holder correctly   
 - Solder the second terminal of the battery holder  
-["Tutorial básico de soldadura SMD | NIVEL 1 | LCSC" (Mundo electrónica)](https://www.youtube.com/watch?v=yil-EmlQMkg&t=2s)
-[How to solder tiny SMD components (Max Imagination)](https://www.youtube.com/watch?v=skDwEgYY1UA)
-[Consejos para soldar componentes SMD (Master Manua)](https://www.youtube.com/watch?v=3uQD9BXY-4c&list=PLFAKEVrt2z7I&index=5)  
+["Tutorial básico de soldadura SMD | NIVEL 1 | LCSC" (Mundo electrónica)](https://www.youtube.com/watch?v=yil-EmlQMkg&t=2s)  
+["How to solder tiny SMD components" (Max Imagination)](https://www.youtube.com/watch?v=skDwEgYY1UA)  
+["Consejos para soldar componentes SMD" (Master Manual)](https://www.youtube.com/watch?v=3uQD9BXY-4c&list=PLFAKEVrt2z7I&index=5)  
   
 ### Soldering push button    
 - Place the push button on the PCB  
