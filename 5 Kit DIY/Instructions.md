@@ -44,7 +44,7 @@ Before starting, place the component on the PCB, except for the battery holder
 ### Soldering LEDS    
 - Place each LED on the PCB (remember: the long leg is the positive terminal!)  
 - Solder each terminal  
-["How to solder! (beginner's guide)"](https://www.youtube.com/watch?v=3jAw41LRBxU&list=PLFAKEVrt2z7I&index=1&t=5s)
+["How to solder! (beginner's guide)"](https://www.youtube.com/watch?v=3jAw41LRBxU&list=PLFAKEVrt2z7I&index=1&t=5s)  
 ["Curso bàsico de soldadura electrónica" (Luis Carlos Galán)](https://www.youtube.com/watch?v=snM_ABjXGsw&list=PLFAKEVrt2z7I&index=3)  
 
 ### Final step  
