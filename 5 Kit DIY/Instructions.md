@@ -20,6 +20,7 @@
   
 ## How to solder  
 [Three steps of approximately three seconds each](https://es.pinterest.com/pin/68745972059/)  
+<br>
 Before starting, place the component on the PCB, except for the battery holder  
 1. Heat the area to be soldered  
 2. Bring the solder wire to the heated area so that it melts between the PCB and the component lead. The solder will create the electrical and mechanical connection between them  
