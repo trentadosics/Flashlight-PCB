@@ -37,12 +37,15 @@ Before starting, place the component on the PCB, except for the battery holder
 ### Soldering push button    
 - Place the push button on the PCB  
 - Solder each terminal  
-["How to solder! (beginner's guide)"](https://www.youtube.com/watch?v=3jAw41LRBxU&list=PLFAKEVrt2z7I&index=1&t=5s)  
+["Tutorial básico de soldadura SMD | NIVEL 1 | LCSC" (Mundo electrónica)](https://www.youtube.com/watch?v=yil-EmlQMkg&t=2s)  
+["How to solder tiny SMD components" (Max Imagination)](https://www.youtube.com/watch?v=skDwEgYY1UA)  
+["Consejos para soldar componentes SMD" (Master Manual)](https://www.youtube.com/watch?v=3uQD9BXY-4c&list=PLFAKEVrt2z7I&index=5) 
   
 ### Soldering LEDS    
 - Place each LED on the PCB (remember: the long leg is the positive terminal!)  
 - Solder each terminal  
-["How to solder! (beginner's guide)"](https://www.youtube.com/watch?v=3jAw41LRBxU&list=PLFAKEVrt2z7I&index=1&t=5s)  
+["How to solder! (beginner's guide)"](https://www.youtube.com/watch?v=3jAw41LRBxU&list=PLFAKEVrt2z7I&index=1&t=5s)
+["Curso bàsico de soldadura electrónica" (Luis Carlos Galán)](https://www.youtube.com/watch?v=snM_ABjXGsw&list=PLFAKEVrt2z7I&index=3)  
 
 ### Final step  
 - Insert the CR2032 battery into the battery holder (important: the positive terminal of the battery holder must be aligned with the positive side (+) of the battery)  
