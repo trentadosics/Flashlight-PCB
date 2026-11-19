@@ -1,4 +1,4 @@
-## Índex
+## Index
 - [Components](#components)  
 - [Tools](#tools)  
 - [How to solder](#how-to-solder)  
