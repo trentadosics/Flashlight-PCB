@@ -42,9 +42,8 @@ Abans de començar, col·loca els components a la placa PCB, excepte el portapil
 ### Soldadura del polsador
 - Col·loca el polsador a la placa PCB  
 - Solda cadascun dels seus terminals  
-["Tutorial básico de soldadura SMD | NIVEL 1 | LCSC" (Mundo electrónica)](https://www.youtube.com/watch?v=yil-EmlQMkg&t=2s)  
-["How to solder tiny SMD components" (Max Imagination)](https://www.youtube.com/watch?v=skDwEgYY1UA)  
-["Consejos para soldar componentes SMD" (Master Manual)](https://www.youtube.com/watch?v=3uQD9BXY-4c&list=PLFAKEVrt2z7I&index=5) 
+["How to solder! (beginner's guide)"](https://www.youtube.com/watch?v=3jAw41LRBxU&list=PLFAKEVrt2z7I&index=1&t=5s)  
+["Curso bàsico de soldadura electrónica" (Luis Carlos Galán)](https://www.youtube.com/watch?v=snM_ABjXGsw&list=PLFAKEVrt2z7I&index=3) 
 
 ### Soldadura dels LED
 - Col·loca cada LED a la placa PCB (recorda: la pota més llarga és el terminal positiu!)
