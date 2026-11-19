@@ -36,7 +36,7 @@ Abans de començar, col·loca els components a la placa PCB, excepte el portapil
 - Torna a escalfar el punt estanyat i col·loca el portapiles en la posició correcta.
 - Solda el segon terminal del portapiles
 
-["Tutorial bàsic de soldadura SMD | NIVELL 1 | LCSC" (Mundo Electrónica)](https://www.youtube.com/watch?v=yil-EmlQMkg&t=2s)
+  ["Tutorial bàsic de soldadura SMD | NIVELL 1 | LCSC" (Mundo Electrónica)](https://www.youtube.com/watch?v=yil-EmlQMkg&t=2s)
 
 ### Soldadura del polsador
 - Col·loca el polsador a la placa PCB.
