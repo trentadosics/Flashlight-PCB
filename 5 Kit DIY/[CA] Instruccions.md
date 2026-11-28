@@ -4,7 +4,6 @@
 - [Eines](#eines)
 - [Com soldar](#com-soldar)
 - [Pas a pas](#pas-a-pas)
-- [Pas final](#pas-final)
 
 ## Components
 - 1 placa de circuit imprès (PCB) per a la llanterna
