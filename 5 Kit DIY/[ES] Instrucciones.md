@@ -4,7 +4,6 @@
 - [Herramientas](#herramientas)
 - [Cómo soldar](#como-soldar)
 - [Paso a paso](#paso-a-paso)
-- [Paso final](#paso-final)
 
 ## Componentes
 - 1 placa de circuito impreso (PCB) para la linterna
